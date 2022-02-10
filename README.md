@@ -7,7 +7,7 @@ and I decided to move on in this amazing world. I've learned a lot (and going on
 ![](https://komarev.com/ghpvc/?username=hvignolo87&color=blue&style=plastic)
 
 ## How can you reach me?
-- Feel free to follow me on <a href="https://www.linkedin.com/in/hernanvignolo/"/>LinkedIn<a/> to stay in the loop.
+- Feel free to follow me on <a href="https://www.linkedin.com/in/hernanvignolo/?locale=en_US"/>LinkedIn<a/> to stay in the loop.
 - Also you can send me messages here!
 
 ## Currently...
