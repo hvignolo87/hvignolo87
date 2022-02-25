@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Hernán Vignolo
-- Thank you for visiting my profile! I'm an ⚡ Electrical Engineer from Buenos Aires, Argentina. Over the last 1.5 years I started my firsts steps into the AI world, 
+- Thank you for visiting my profile! I'm an ⚡ Electrical Engineer from Buenos Aires, Argentina. Over the last 2 years I started my firsts steps into the AI world, 
 and I decided to move on in this amazing world. I've learned a lot (and going on!).
 
 - My main interests are Computer Vision, Machine Learning and Deep Learning! But everything is welcome, I really enjoy solving meaningful and challenging problems!
