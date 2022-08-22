@@ -45,6 +45,6 @@
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/hvignolo87/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="hvignolo87" />
 <img align="center" src="https://raw.githubusercontent.com/hvignolo87/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="hvignolo87" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvignolo87&show_icons=true&locale=en" alt="hvignolo87" width="40%"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hvignolo87&" alt="hvignolo87" width="40%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvignolo87&show_icons=true&locale=en" alt="hvignolo87" width="60%"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hvignolo87&" alt="hvignolo87" width="60%"/>
 </p>
