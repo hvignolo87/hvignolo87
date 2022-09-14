@@ -15,6 +15,7 @@
 - 💻 I’m currently working as Data Developer at [Mutt Data](https://github.com/MuttData)
 - ⚙️ I use daily **`.py`, `.yml`, `.sh`**
 - 🌱 I’m currently learning all about **Data Science, Machine Learning and more!**
+- ⚡ I'm an electrical engineer.
 - 💬 Ask me about **python, data science, machine learning, maths, etc**
 - 📫 Reach me or know about my experience **through my LinkedIn profile!**
 
