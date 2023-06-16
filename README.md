@@ -12,10 +12,10 @@
 
 ### Bio
 
-- 💻 I’m currently working as Data Developer at [Mutt Data](https://github.com/MuttData)
+- 💻 I’m currently working as Data Engineer at [Mutt Data](https://github.com/MuttData)
 - ⚙️ I use daily **`.py`, `.sql`, `.yml`, `.sh`**
 - 🌱 I’m always learning new things about **AWS, Data Engineering, Machine Learning and more!**
-- ⚡ I'm an electrical engineer.
+- ⚡ I'm an electrical engineer
 - 💬 Ask me about **python, data engineering, machine learning, etc**
 - 📫 Reach me or know about my experience **through my LinkedIn profile!**
 
