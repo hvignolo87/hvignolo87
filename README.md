@@ -12,11 +12,11 @@
 
 ### Bio
 
-- 💻 I’m currently working as Data & Analytics Engineer at [Emi Labs](https://github.com/emilabs)
+- 💻 I’m currently working as a Fractional Data Engineer
 - ⚙️ I use daily **`.py`, `.sql`, `.yml`, `.sh`**
-- 🌱 I’m always learning new things about **AWS, Data Engineering, Machine Learning and more!**
+- 🌱 I’m always learning new things about **AWS, Data Engineering, Platform Engineering and more!**
 - ⚡ I'm an electrical engineer
-- 💬 Ask me about **python, data engineering, machine learning, etc**
+- 💬 Ask me about **python, data engineering, etc**
 - 📫 Reach me or know about my experience **through my LinkedIn profile!**
 
 
