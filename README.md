@@ -12,7 +12,7 @@
 
 ### Bio
 
-- 💻 I’m currently working as a Fractional Data Engineer
+- 💻 I’m currently working as a Data Engineer
 - ⚙️ I use daily **`.py`, `.sql`, `.yml`, `.sh`**
 - 🌱 I’m always learning new things about **AWS, Data Engineering, Platform Engineering and more!**
 - ⚡ I'm an electrical engineer
